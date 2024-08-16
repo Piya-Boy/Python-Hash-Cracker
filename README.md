@@ -34,7 +34,7 @@ Run the script with automatic processing of wordlists from the `wordlist` folder
 python Hash-Cracker-v2.py -h <hash> -t <type> -v
 ```
 
-Download the wordlist for Version 2: [Wordlist v2] [wordlist (1).zip](https://prtcollege-my.sharepoint.com/:u:/g/personal/6329030161_prtc_ac_th/Ec9_75lr-vpFvBNq2yNds2sBgTBbfICYY5mmz7n_kiZQFw?e=tQaHv0)
+Download the wordlist for Version 2: [Wordlist v2] [wordlist.zip](https://prtcollege-my.sharepoint.com/:u:/g/personal/6329030161_prtc_ac_th/Ec9_75lr-vpFvBNq2yNds2sBgTBbfICYY5mmz7n_kiZQFw?e=tQaHv0)
 
 ### Changes in Version 2
 
