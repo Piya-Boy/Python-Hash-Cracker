@@ -25,7 +25,7 @@ Run the script with a specified wordlist file:
 python Hash-Cracker-v1.py -h <hash> -t <type> -w <Wordlist.txt> -v
 ```
 
-Download the wordlist for Version 1: [Wordlist v1]([Wordlist.zip](https://prtcollege-my.sharepoint.com/:u:/g/personal/6329030161_prtc_ac_th/EbBN6QpqV5dPlAhVL5GXD7wB0IQmXfv8_AlXVqmkUYVPzw?e=4ervZZ))
+Download the wordlist for Version 1: [Wordlist v1] [Wordlist.zip](https://prtcollege-my.sharepoint.com/:u:/g/personal/6329030161_prtc_ac_th/EbBN6QpqV5dPlAhVL5GXD7wB0IQmXfv8_AlXVqmkUYVPzw?e=4ervZZ)
 
 ### Version 2
 
