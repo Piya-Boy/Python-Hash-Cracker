@@ -71,6 +71,5 @@ The command line tool has been tested and works with:
 - OS X
 
 ## Enjoy!
-```
 
 Replace `link-to-wordlist-v1` and `link-to-wordlist-v2` with the actual URLs where the wordlists can be downloaded. If you need help finding or setting up the download links, let me know!
